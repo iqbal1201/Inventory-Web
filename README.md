@@ -5,7 +5,7 @@ Web aplikasi inventory gudang dengan fitur fitur pemakaian barang, fitur penamba
 Dikerjakan oleh:
 1. Muhamad Iqbal Januadi Putra (220401010184)
 2. David Kurniawan (230401020103)
-3. 
+3. Agustiar Fachrudin (230401020083)
 
 
 
